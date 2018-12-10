@@ -1,4 +1,4 @@
-An h1 header [WEBSPARKS]
+An h1 header [WEBSPARKS] 1
 ============
 
 Paragraphs are separated by a blank line.
